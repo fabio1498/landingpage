@@ -10,6 +10,7 @@ body {
   margin: auto;
   background-color: #F1EFF1;
   font-family: "Poppins", sans-serif;
+  overflow-x: hidden;
 }
 
 header {
