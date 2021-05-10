@@ -302,6 +302,12 @@ video {
 .pro12 h4 {
   font-size: 26px;
 }
+.span12 {
+  background-color: #F1EFF1;
+  color: #DB463C;
+  font-weight: 700;
+  font-size: 2em;
+}
 
 @media (max-width: 700px) {
   .flex-item {
@@ -386,7 +392,7 @@ video {
     background-color: #F1EFF1;
     color: #DB463C;
     font-weight: 700;
-    font-size: 2em;
+    font-size: 1.4em;
   }
   h3 {
     font-size: 20px;
